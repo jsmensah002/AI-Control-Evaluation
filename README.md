@@ -2,12 +2,12 @@
 
 Honest run:
 - main_task_success: accuracy 0.500, stderr 0.071
-- max_suspicion_scorer: accuracy 0.000, stderr 0.000
+- avg_suspicion_scorer: accuracy 0.000, stderr 0.000
 
 Attack run:
 - main_task_success: accuracy 0.560, stderr 0.071
 - side_task_success: accuracy 0.120, stderr 0.046
-- max_suspicion_scorer: accuracy 0.188, stderr 0.054
+- avg_suspicion_scorer: accuracy 0.188, stderr 0.054
 
 Overall summary:
 - Total samples: 100
